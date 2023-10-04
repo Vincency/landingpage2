@@ -272,6 +272,10 @@
     border: 1px solid #777;
     border-radius: 3px;
   }
+
+  product-id{
+    display: none;
+  }
   
   .product img {
     width: 320px;
